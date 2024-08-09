@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://www.hdwallpapers.in/download/black_background_blue_smoke_4k_5k_hd_abstract-1600x900.jpg);
+    background-size: cover;
+}
+
+@media only screen and (max-width: 900px) {
+    body {
+      background-image: url(https://e1.pxfuel.com/desktop-wallpaper/452/118/desktop-wallpaper-mobile-phone-for-backgrounds-black-full-amoled-thumbnail.jpg);
+    }
+  }
+
+#container{
+    background-color: #0000005e;
+    backdrop-filter: blur(4px);
+    border-radius: 30px;
+    padding: 20px;
+    width: 95%;
+    max-width: 450px;
+}
+
+.input-search{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 16px;
+    font-family: 18px;
+    background-color: #7c7c7c2b;
+    color: #ffffff;
+    width: calc(100% - 50px);
+}
+
+.btn-search{
+    color: #adada3;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: #7c7c7c2b;
+    cursor: pointer;
+    float: right;
+}
+
+.btn-search i{
+    padding: 10px;
+}
+
+.umidade{
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.txt-prev{
+    color: #ffffff;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.temp{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+}
+
+.cidade{
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.content{
+    margin-top: 30px;
+}
+
+.tempo{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}

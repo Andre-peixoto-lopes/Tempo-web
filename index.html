@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do tempo</title>
+    <script src="https://kit.fontawesome.com/0ad878e61e.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="https://openweathermap.org/img/wn/04n.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <main id="container">
+        <input class="input-search" placeholder="Sua cidade">
+        <button class="btn-search" onclick="search()">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+
+        <div class="content">
+            <h2 class="cidade">Tempo em: </h2>
+            <p class="temp">Graus</p>
+
+            <div class="tempo">
+                <img class="previsao" alt="Icone-tempo" src="https://openweathermap.org/img/wn/04n.png">
+                <p class="txt-prev">Clima</p>
+            </div>
+
+            <p class="umidade">Umidade:</p>
+        </div>
+    </main>
+</body>
+
+</html>
