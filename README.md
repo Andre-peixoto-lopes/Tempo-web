@@ -6,7 +6,10 @@ Támbem pensada para atender todas as demandas o projeto é totalmente desenvolv
 A API busca informações do clima da cidade pesquisada, a aplicação consome e apresenta com clareza os dados ao usuário.
 
 ### Preview:
-![Clima](https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee)
+<div style="display: inline">
+<img width="400px" src="https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee"/>
+<img width="400px" src="https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee"/>
+</div>
 
 ### Tecnologias:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
