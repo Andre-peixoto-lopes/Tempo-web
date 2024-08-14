@@ -7,8 +7,8 @@ A API busca informações do clima da cidade pesquisada, a aplicação consome e
 
 ### Preview:
 <div style="display: inline">
-<img width="400px" src="https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee"/>
-<img width="400px" src="https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee"/>
+<img width="750px" src="https://github.com/user-attachments/assets/03682be0-dc41-48d2-9c1c-3120f68072ee"/>
+<img height="350px" src="https://github.com/user-attachments/assets/4a14319d-6d74-4699-8bc1-9d8b884ee8d3"/>
 </div>
 
 ### Tecnologias:
